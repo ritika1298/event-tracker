@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="INSERT_OR_UPDATE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description/>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_656186_customer.request_record_user</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>request_record_user</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 15:23:14</sys_created_on>
+        <sys_id>f9c57fa987330110e0d0da873cbb35f0</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_656186_customer.request_record_user</sys_name>
+        <sys_package display_value="Customer app" source="x_656186_customer">d45d67e187330110e0d0da873cbb3544</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer app">d45d67e187330110e0d0da873cbb3544</sys_scope>
+        <sys_update_name>sys_user_role_f9c57fa987330110e0d0da873cbb35f0</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 15:23:14</sys_updated_on>
+    </sys_user_role>
+</record_update>

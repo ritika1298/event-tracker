@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update sys_domain="global" table="sys_ui_module">
+    <sys_ui_module action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <application display_value="Request data">3dc53be987330110e0d0da873cbb3504</application>
+        <filter/>
+        <name>Request Records</name>
+        <order/>
+        <path/>
+        <path_relative_to_root>false</path_relative_to_root>
+        <roles>x_656186_customer.request_record_user</roles>
+        <sys_class_name>sys_ui_module</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 15:23:15</sys_created_on>
+        <sys_domain>global</sys_domain>
+        <sys_domain_path>/</sys_domain_path>
+        <sys_id>4ec53be987330110e0d0da873cbb3507</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>Request Records</sys_name>
+        <sys_package display_value="Customer app" source="x_656186_customer">d45d67e187330110e0d0da873cbb3544</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer app">d45d67e187330110e0d0da873cbb3544</sys_scope>
+        <sys_update_name>sys_ui_module_4ec53be987330110e0d0da873cbb3507</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 15:23:15</sys_updated_on>
+        <table>x_656186_customer_request_record</table>
+        <uncancelable>false</uncancelable>
+        <view_name/>
+    </sys_ui_module>
+</record_update>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_security_acl">
+    <sys_security_acl action="INSERT_OR_UPDATE">
+        <active>true</active>
+        <admin_overrides>true</admin_overrides>
+        <advanced>false</advanced>
+        <condition/>
+        <description>Default access control on x_656186_customer_request_record</description>
+        <name>x_656186_customer_request_record</name>
+        <operation display_value="read">read</operation>
+        <script/>
+        <sys_class_name>sys_security_acl</sys_class_name>
+        <sys_created_by>admin</sys_created_by>
+        <sys_created_on>2022-05-31 15:23:15</sys_created_on>
+        <sys_id>46c53be987330110e0d0da873cbb3512</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_656186_customer_request_record</sys_name>
+        <sys_package display_value="Customer app" source="x_656186_customer">d45d67e187330110e0d0da873cbb3544</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="Customer app">d45d67e187330110e0d0da873cbb3544</sys_scope>
+        <sys_update_name>sys_security_acl_46c53be987330110e0d0da873cbb3512</sys_update_name>
+        <sys_updated_by>admin</sys_updated_by>
+        <sys_updated_on>2022-05-31 15:23:15</sys_updated_on>
+        <type display_value="record">record</type>
+    </sys_security_acl>
+</record_update>
